@@ -27,8 +27,7 @@
 
 ## 架构学习路线目录
 
-> 没链接的耐心等待更哟~
->
+> 没链接的，耐心等待更新哟~
 
 ### 数据结构与算法
 
@@ -72,7 +71,7 @@
 - 架构模式
 - 复杂度概念
 - 架构设计原则
-- 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/99.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | 架构师的5点底层能力
+- 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/99.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | [架构师的5点底层能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html)
 
 ### 应用架构设计
 
@@ -114,17 +113,17 @@
 
 ### 系统架构案例
 
-- [**01.新零售SaaS系统规划**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/01.%E6%96%B0%E9%9B%B6%E5%94%AESaaS%E7%B3%BB%E7%BB%9F%E8%A7%84%E5%88%92.html)
-- [**02.多渠道概念模型设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/02.%E5%A4%9A%E6%B8%A0%E9%81%93%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1.html)
-- [**03.组织管理架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/03.%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**04.商品管理系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/04.%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**05.中央库存系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/05.%E4%B8%AD%E5%A4%AE%E5%BA%93%E5%AD%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**06.线上商城系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/06.%E7%BA%BF%E4%B8%8A%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**07.促销系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/07.%E4%BF%83%E9%94%80%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**08.订单履约系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/08.%E8%AE%A2%E5%8D%95%E5%B1%A5%E7%BA%A6%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**09.客户管理系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/09.%E5%AE%A2%E6%88%B7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**10.SaaS开放平台架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/10.SaaS%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
-- [**11.多租户系统架构设计**](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/11.%E5%A4%9A%E7%A7%9F%E6%88%B7%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [01.新零售SaaS系统规划](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/01.%E6%96%B0%E9%9B%B6%E5%94%AESaaS%E7%B3%BB%E7%BB%9F%E8%A7%84%E5%88%92.html)
+- [02.多渠道概念模型设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/02.%E5%A4%9A%E6%B8%A0%E9%81%93%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1.html)
+- [03.组织管理架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/03.%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [04.商品管理系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/04.%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [05.中央库存系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/05.%E4%B8%AD%E5%A4%AE%E5%BA%93%E5%AD%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [06.线上商城系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/06.%E7%BA%BF%E4%B8%8A%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [07.促销系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/07.%E4%BF%83%E9%94%80%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [08.订单履约系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/08.%E8%AE%A2%E5%8D%95%E5%B1%A5%E7%BA%A6%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [09.客户管理系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/09.%E5%AE%A2%E6%88%B7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [10.SaaS开放平台架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/10.SaaS%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
+- [11.多租户系统架构设计](https://tangshiye.cn/06.%E7%B3%BB%E7%BB%9F%E6%A1%88%E4%BE%8B/11.%E5%A4%9A%E7%A7%9F%E6%88%B7%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.html)
 
 ### 架构学习书单
 
