@@ -32,27 +32,27 @@
 
 ### 数据结构与算法
 
-- 数据结构：[数组](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/01.%20%E6%95%B0%E7%BB%84/01.%20%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | 链表 | 堆栈 | 队列 | 哈希表 | 字符串 | 树 | 图
-- 算法思想：分治算法 | 递归算法 | 回溯算法 | 贪心算法 | 动态规划
+- 数据结构：[数组](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/01.%20%E6%95%B0%E7%BB%84/01.%20%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [链表](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/02.%20%E9%93%BE%E8%A1%A8/01.%20%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E9%93%BE%E8%A1%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [堆栈](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/03.%20%E5%A0%86%E6%A0%88/01.%20%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E5%A0%86%E6%A0%88%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [队列](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/04.%20%E9%98%9F%E5%88%97/01.%20%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [哈希表](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/05.%20%E5%93%88%E5%B8%8C%E8%A1%A8/01.%20%E5%93%88%E5%B8%8C%E8%A1%A8%E7%9F%A5%E8%AF%86.html) | [字符串](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/06.%20%E5%AD%97%E7%AC%A6%E4%B8%B2/01.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [树](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/07.%20%E6%A0%91/01.%20%E4%BA%8C%E5%8F%89%E6%A0%91/01.%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html) | [图](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/08.%20%E5%9B%BE/01.%20%E5%9B%BE%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/01.%20%E5%9B%BE%E7%9A%84%E5%AE%9A%E4%B9%89%E5%92%8C%E5%88%86%E7%B1%BB.html)
+- 算法思想：[分治算法](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/09.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/03.%20%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/01.%20%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html) | [递归算法](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/09.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/02.%20%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/01.%20%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html) | [回溯算法](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/09.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/04.%20%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/01.%20%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html) | [贪心算法](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/09.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/05.%20%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/01.%20%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html) | [动态规划](https://tangshiye.cn/02.%E7%AE%97%E6%B3%95/10.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/01.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%9F%BA%E7%A1%80/01.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html)
 
 ### 编程语言基础
 
-- Java编程：面向对象 | 语言特性 | 集合框架 | 多线程与并发 | IO/NIO | JVM相关
+- Java编程：[面向对象](https://tangshiye.cn/01.Java/01.Java%E5%9F%BA%E7%A1%80/01.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.html) | 语言特性 | [集合框架](https://tangshiye.cn/01.Java/02.Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/01.%E6%A6%82%E8%A7%88.html) | [多线程与并发](https://tangshiye.cn/01.Java/03.Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91/01.%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9.html) | IO/NIO | [JVM相关](https://tangshiye.cn/01.Java/04.JVM%E7%9B%B8%E5%85%B3/01.JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.html)
 
 ### 开发必备框架与工具
 
-- 数据库：数据库基础  | Mysql  | Nosql | 分库分表
+- 数据库：数据库基础  | [Mysql](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/01.Mysql%E8%AF%A6%E8%A7%A3/01.%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95.html)  | [Hbase](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/03.Hbase%E8%AF%A6%E8%A7%A3/01.HBase%E6%9E%B6%E6%9E%84.html) | 分库分表
 - 核心框架：常用工具类 | Spring | 单元测试 | 网络框架 | ORM框架
 - 设计模式：创建型 | 行为型 | 结构型
 - 开发工具&部署：Git | IDE | CI/CD | tomcat | Linux | Docker
-- 开发规范：技术方案规范 | 阿里开发手册
+- 开发规范：[技术方案规范](https://tangshiye.cn/07.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/01.%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E6%A8%A1%E6%9D%BF.html) | 阿里开发手册
 
 ### 中间件与系统调优
 
-- 缓存：redis | Memcached
+- 缓存：[Redis](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/02.Redis%E8%AF%A6%E8%A7%A3/01.Redis%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html) | Memcached
 - RPC框架：dubbo
 - 消息中间件：Kafka | RocketMQ
-- 搜索：Elasticsearch
+- 搜索：[Elasticsearch](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.Elasticsearch/01.Elasticsearch%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html)
 - 工作流：Activiti
 - 规则引擎：Drools | Easy Rules
 - 系统调优：性能调优 | JVM调优 | 数据库调优 | 日志与监控
@@ -66,16 +66,17 @@
 
 ### 架构基础
 
-- 什么是架构？
-- 架构有什么价值？
-- 架构多维度
+- [什么是架构？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%B6%E6%9E%84.html)
+- [架构有什么价值？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.html)
+- [架构多维度](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/03.%E4%BB%8E%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%90%86%E8%A7%A3%E6%9E%B6%E6%9E%84.html)
 - 架构模式
 - 复杂度概念
 - 架构设计原则
+- 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/99.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | 架构师的5点底层能力
 
 ### 应用架构设计
 
-- 应用架构：应用服务 | 应用结构 | 应用交互
+- 应用架构：[应用架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | 应用服务 | 应用结构 | 应用交互
 - DDD（领域驱动设计）：基于DDD的应用架构 | 领域、子域、核心域、通用域、支撑域 | 限界上下文 | 实体和值对象 | 聚合和聚合根 | 领域事件 | DDD分层 | DDD与微服务划分 | DDD代码模型
 
 ### 数据架构设计
@@ -100,12 +101,14 @@
 
 ### 业务架构设计
 
-- 业务架构：价值流 | 业务流程 | 业务能力 | 业务场景 | 组织架构
+- 业务架构：[业务架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | [价值流](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html) | 业务流程 | 业务能力 | 业务场景 | 组织架构
 
 ### 架构治理
 
 - 企业架构：Zachman | TOGAF | FEAF | DoDAF | eTOM | ArchiMate | Gartner
 - 架构治理：治理指标体系 | 差距分析 | 路径规划 | 项目规划实施
+
+
 
 ## 架构学习资料
 
@@ -151,4 +154,4 @@
 
 欢迎联系我，加入我们的技术交流群，在这里你可以与志同道合的伙伴们一起交流学习，共同进步，探讨最新的技术趋势和实践经验。请备注【加群】。
 
-![https://vtang.oss-cn-hangzhou.aliyuncs.com/2024-08-31-vx.jpg](https://vtang.oss-cn-hangzhou.aliyuncs.com/2024-08-31-vx.jpg)
+![](pic//vx_200.jpg)
