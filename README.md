@@ -80,8 +80,8 @@
 
 ### 数据架构设计
 
-- 数据模型：概念模型 | 逻辑模型 | 物理模型
-- 数据库技术选型
+- 数据模型：[概念模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/) | [逻辑模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/) | [物理模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/)
+- [数据库技术选型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/)
 - 大数据技术
 
 ### 技术架构设计
