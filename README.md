@@ -36,29 +36,29 @@
 
 ### 编程语言基础
 
-- Java编程：[面向对象](https://tangshiye.cn/01.Java/01.Java%E5%9F%BA%E7%A1%80/01.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.html) | 语言特性 | [集合框架](https://tangshiye.cn/01.Java/02.Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/01.%E6%A6%82%E8%A7%88.html) | [多线程与并发](https://tangshiye.cn/01.Java/03.Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91/01.%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9.html) | IO/NIO | [JVM相关](https://tangshiye.cn/01.Java/04.JVM%E7%9B%B8%E5%85%B3/01.JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.html)
+- Java编程：[面向对象](https://tangshiye.cn/01.Java/01.Java%E5%9F%BA%E7%A1%80/01.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.html) | [集合框架](https://tangshiye.cn/01.Java/02.Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/01.%E6%A6%82%E8%A7%88.html) | [多线程与并发](https://tangshiye.cn/01.Java/03.Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91/01.%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9.html) | [JVM相关](https://tangshiye.cn/01.Java/04.JVM%E7%9B%B8%E5%85%B3/01.JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.html) | [Netty](https://tangshiye.cn/01.Java/06.Netty/01.netty%E5%85%A5%E9%97%A8%EF%BC%88%E4%B8%80%EF%BC%89%20netty%E4%BB%8B%E7%BB%8D.html) 
 
 ### 开发必备框架与工具
 
-- 数据库：数据库基础  | [Mysql](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/01.Mysql%E8%AF%A6%E8%A7%A3/01.%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95.html)  | [Hbase](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/03.Hbase%E8%AF%A6%E8%A7%A3/01.HBase%E6%9E%B6%E6%9E%84.html) | 分库分表
-- 核心框架：常用工具类 | Spring | 单元测试 | 网络框架 | ORM框架
-- 设计模式：创建型 | 行为型 | 结构型
+- 数据库：数据库基础  | [Mysql](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/01.Mysql%E8%AF%A6%E8%A7%A3/)  | [Hbase](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/03.Hbase%E8%AF%A6%E8%A7%A3/01.HBase%E6%9E%B6%E6%9E%84.html) | [分库分表](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/10.Sharding-JDBC/)
+- 核心框架：常用工具类 | [Spring](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/01.Spring/) | [SpringBoot](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/03.SpringBoot/) | [SpringMVC](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.SpringMVC/) | [ORM框架](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/09.Mybatis/)
+- 设计模式：[创建型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [行为型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [结构型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
 - 开发工具&部署：Git | IDE | CI/CD | tomcat | Linux | Docker
 - 开发规范：[技术方案规范](https://tangshiye.cn/07.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/01.%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E6%A8%A1%E6%9D%BF.html) | 阿里开发手册
 
 ### 中间件与系统调优
 
-- 缓存：[Redis](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/02.Redis%E8%AF%A6%E8%A7%A3/01.Redis%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html) | Memcached
-- RPC框架：dubbo
-- 消息中间件：Kafka | RocketMQ
-- 搜索：[Elasticsearch](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.Elasticsearch/01.Elasticsearch%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93.html)
+- 缓存：[Redis](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/02.Redis%E8%AF%A6%E8%A7%A3/) | Memcached
+- RPC框架：[dubbo](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/06.Dubbo)
+- 消息中间件：[Kafka](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/07.Kafka/) | [RocketMQ](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/08.RocketMQ/)
+- 搜索：[Elasticsearch](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/04.Elasticsearch/)
 - 工作流：Activiti
 - 规则引擎：Drools | Easy Rules
 - 系统调优：性能调优 | JVM调优 | 数据库调优 | 日志与监控
 
 ### 安全技术
 
-- 身份认证与授权：单点登录（SSO）| OAuth 2.0 基于角色的访问控制（RBAC）
+- 身份认证与授权：单点登录（SSO）| [OAuth 2.0](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/11.OAuth2/) | [SpringSecurity](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/05.SpringSecurity/)
 - 数据加密与解密：对称加密算法（如AES、DES） | 非对称加密算法（如RSA、ECC） | 哈希算法（如SHA-256、MD5） | 数字签名公钥基础设施（PKI） | SSL/TLS协议 数据库加密
 - 网络安全：DDoS攻击防护 | DNS安全（如DNSSEC）
 - 应用安全：安全编码实践 | 代码注入防护（如SQL注入、XSS）| 安全日志记录与审计 | API安全（如API网关、令牌管理）
@@ -86,7 +86,7 @@
 
 ### 技术架构设计
 
-- 分布式架构设计：
+- 分布式架构设计：[分布式调度](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/12.XXL-JOB/) | [分布式事务](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/)
 
 ![image.png](pic//image%202.png)
 
@@ -94,7 +94,7 @@
 
 ![image.png](pic//image%203.png)
 
-- 微服务架构：
+- 微服务架构：[SpringCloud](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/04.SpringCloud/)
 
 ![image.png](pic//image%204.png)
 
