@@ -65,13 +65,13 @@
 
 ### 架构基础
 
-- [什么是架构？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%B6%E6%9E%84.html)
-- [架构有什么价值？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.html)
-- [架构多维度](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/03.%E4%BB%8E%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%90%86%E8%A7%A3%E6%9E%B6%E6%9E%84.html)
+- [什么是架构？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/01.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%B6%E6%9E%84.html)
+- [架构有什么价值？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/02.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.html)
+- [架构多维度](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/03.%E4%BB%8E%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%90%86%E8%A7%A3%E6%9E%B6%E6%9E%84.html)
 - 架构模式
 - 复杂度概念
 - 架构设计原则
-- 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/99.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | [架构师的5点底层能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html)
+- 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/01.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | [架构师的5点底层能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html)
 
 ### 应用架构设计
 
