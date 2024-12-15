@@ -41,7 +41,7 @@
 ### 开发必备框架与工具
 
 - 数据库：数据库基础  | [Mysql](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/01.Mysql%E8%AF%A6%E8%A7%A3/)  | [Hbase](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/03.Hbase%E8%AF%A6%E8%A7%A3/01.HBase%E6%9E%B6%E6%9E%84.html) | [分库分表](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/10.Sharding-JDBC/)
-- 核心框架：常用工具类 | [Spring](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/01.Spring/) | [SpringBoot](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/03.SpringBoot/) | [SpringMVC](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.SpringMVC/) | [ORM框架](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/09.Mybatis/)
+- 核心框架：常用工具类 | [Spring](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/01.Spring/) | [SpringBoot](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/03.SpringBoot/) | [SpringMVC](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.SpringMVC/) | [Mybatis](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/09.Mybatis/)
 - 设计模式：[创建型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [行为型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [结构型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
 - 开发工具&部署：Git | IDE | CI/CD | tomcat | Linux | Docker
 - 开发规范：[技术方案规范](https://tangshiye.cn/07.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/01.%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E6%A8%A1%E6%9D%BF.html) | 阿里开发手册
@@ -52,8 +52,6 @@
 - RPC框架：[dubbo](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/06.Dubbo)
 - 消息中间件：[Kafka](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/07.Kafka/) | [RocketMQ](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/08.RocketMQ/)
 - 搜索：[Elasticsearch](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/04.Elasticsearch/)
-- 工作流：Activiti
-- 规则引擎：Drools | Easy Rules
 - 系统调优：性能调优 | JVM调优 | 数据库调优 | 日志与监控
 
 ### 安全技术
@@ -75,7 +73,7 @@
 
 ### 应用架构设计
 
-- 应用架构：[应用架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | 应用服务 | 应用结构 | 应用交互
+- 应用架构：[应用架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | [应用服务](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/03.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84/02.%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.html) | [应用结构](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/03.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84/03.%E5%BA%94%E7%94%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.html) | [应用交互](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/03.%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84/04.%E5%BA%94%E7%94%A8%E9%97%B4%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1.html)
 - DDD（领域驱动设计）：基于DDD的应用架构 | 领域、子域、核心域、通用域、支撑域 | 限界上下文 | 实体和值对象 | 聚合和聚合根 | 领域事件 | DDD分层 | DDD与微服务划分 | DDD代码模型
 
 ### 数据架构设计
@@ -86,21 +84,21 @@
 
 ### 技术架构设计
 
-- 分布式架构设计：[分布式调度](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/12.XXL-JOB/) | [分布式事务](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/)
+- 分布式架构设计：[分布式调度](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/12.XXL-JOB/) | [分布式事务](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/) | [分布式系统拆分](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/08.%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/why-dubbo.html) | [分库分表 ](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/10.Sharding-JDBC/)| [分布式任务调度](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/12.XXL-JOB/)
 
 ![image.png](pic//image%202.png)
 
-- 高并发、高性能、高可用：
+- 高并发、高性能、高可用：[高并发架构](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/06.%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9E%B6%E6%9E%84/) | [高可用架构](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/05.%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84/)
 
 ![image.png](pic//image%203.png)
 
-- 微服务架构：[SpringCloud](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/04.SpringCloud/)
+- 微服务架构：[SpringCloud](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/04.SpringCloud/) | [Dubbo](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/06.Dubbo/) | [Kafka](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/07.Kafka/) | [RocketMQ](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/08.RocketMQ/)
 
 ![image.png](pic//image%204.png)
 
 ### 业务架构设计
 
-- 业务架构：[业务架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | [价值流](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html) | 业务流程 | 业务能力 | 业务场景 | 组织架构
+- 业务架构：[业务架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | [价值流](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html) | [业务流程](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/03.%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90.html) | [业务能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/04%E4%B8%9A%E5%8A%A1%E8%83%BD%E5%8A%9B%E5%88%86%E6%9E%90.html) | [业务对象](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/05.%E4%B8%9A%E5%8A%A1%E5%AF%B9%E8%B1%A1%E5%88%86%E6%9E%90.html) | [组织架构](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/06%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90.html)
 
 ### 架构治理
 
