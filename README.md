@@ -43,7 +43,6 @@
 - 数据库：数据库基础  | [Mysql](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/01.Mysql%E8%AF%A6%E8%A7%A3/)  | [Hbase](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/03.Hbase%E8%AF%A6%E8%A7%A3/01.HBase%E6%9E%B6%E6%9E%84.html) | [分库分表](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/10.Sharding-JDBC/)
 - 核心框架：常用工具类 | [Spring](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/01.Spring/) | [SpringBoot](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/03.SpringBoot/) | [SpringMVC](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/02.SpringMVC/) | [Mybatis](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/09.Mybatis/)
 - 设计模式：[创建型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [行为型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/) | [结构型](https://tangshiye.cn/01.Java/05.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
-- 开发工具&部署：Git | IDE | CI/CD | tomcat | Linux | Docker
 - 开发规范：[技术方案规范](https://tangshiye.cn/07.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/01.%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E6%A8%A1%E6%9D%BF.html) | 阿里开发手册
 
 ### 中间件与系统调优
@@ -52,23 +51,16 @@
 - RPC框架：[dubbo](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/06.Dubbo)
 - 消息中间件：[Kafka](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/07.Kafka/) | [RocketMQ](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/08.RocketMQ/)
 - 搜索：[Elasticsearch](https://tangshiye.cn/03.%E6%95%B0%E6%8D%AE%E5%BA%93/04.Elasticsearch/)
-- 系统调优：性能调优 | JVM调优 | 数据库调优 | 日志与监控
 
 ### 安全技术
 
 - 身份认证与授权：单点登录（SSO）| [OAuth 2.0](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/11.OAuth2/) | [SpringSecurity](https://tangshiye.cn/04.%E6%A1%86%E6%9E%B6%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6/05.SpringSecurity/)
-- 数据加密与解密：对称加密算法（如AES、DES） | 非对称加密算法（如RSA、ECC） | 哈希算法（如SHA-256、MD5） | 数字签名公钥基础设施（PKI） | SSL/TLS协议 数据库加密
-- 网络安全：DDoS攻击防护 | DNS安全（如DNSSEC）
-- 应用安全：安全编码实践 | 代码注入防护（如SQL注入、XSS）| 安全日志记录与审计 | API安全（如API网关、令牌管理）
 
 ### 架构基础
 
 - [什么是架构？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/01.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%B6%E6%9E%84.html)
 - [架构有什么价值？](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/02.%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%9B%AE%E7%9A%84.html)
 - [架构多维度](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/01.%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/03.%E4%BB%8E%E5%A4%9A%E7%BB%B4%E5%BA%A6%E7%90%86%E8%A7%A3%E6%9E%B6%E6%9E%84.html)
-- 架构模式
-- 复杂度概念
-- 架构设计原则
 - 架构师成长：[架构师的种类](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/01.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.html) | [架构师的5点底层能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html)
 
 ### 应用架构设计
@@ -79,8 +71,6 @@
 ### 数据架构设计
 
 - 数据模型：[概念模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/) | [逻辑模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/) | [物理模型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/)
-- [数据库技术选型](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84/)
-- 大数据技术
 
 ### 技术架构设计
 
@@ -99,13 +89,6 @@
 ### 业务架构设计
 
 - 业务架构：[业务架构基础](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/04.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.html) | [价值流](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/11.%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF/02.%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%845%E7%82%B9%E5%BA%95%E5%B1%82%E8%83%BD%E5%8A%9B.html) | [业务流程](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/03.%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90.html) | [业务能力](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/04%E4%B8%9A%E5%8A%A1%E8%83%BD%E5%8A%9B%E5%88%86%E6%9E%90.html) | [业务对象](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/05.%E4%B8%9A%E5%8A%A1%E5%AF%B9%E8%B1%A1%E5%88%86%E6%9E%90.html) | [组织架构](https://tangshiye.cn/05.%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/02.%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84/06%E7%BB%84%E7%BB%87%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90.html)
-
-### 架构治理
-
-- 企业架构：Zachman | TOGAF | FEAF | DoDAF | eTOM | ArchiMate | Gartner
-- 架构治理：治理指标体系 | 差距分析 | 路径规划 | 项目规划实施
-
-
 
 ## 架构学习资料
 
